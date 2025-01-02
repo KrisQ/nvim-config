@@ -18,7 +18,7 @@ This is my personal Neovim configuration, tailored to my workflow and preference
 
 2. Clone this config:
    ```bash
-   git clone https://github.com/your-repo-name ~/.config/nvim
+   git clone https://github.com/KrisQ/nvim-config ~/.config/nvim
    ```
 
 3. Open Neovim and run `:Lazy` to install plugins.
